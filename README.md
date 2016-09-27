@@ -1,3 +1,0 @@
-# GA-DSI
-someday...
-query?
